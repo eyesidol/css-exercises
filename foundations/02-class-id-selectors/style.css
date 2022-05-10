@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, DeJaVu sans-serif, sans-serif;
+}
+
+p {
+    background-color: #ff8080;
+}
+
+#y {
+    font-size: 36px;
+    color: #1100ff;
+}
+
+#z {
+   font-size: 24px;
+   background-color: #b3ffb4;
+   font-weight: bold;
+}
+
+.cool {
+    font-size: 24px;
+
+}
